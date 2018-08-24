@@ -1,0 +1,1 @@
+-- 5.List the amount paid by each customer.
