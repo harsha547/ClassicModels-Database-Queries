@@ -1,4 +1,4 @@
--- 7. List the products ordered on a Monday.
+-- 1. List products sold by order date.
 
 SELECT productName , orderDate , DAYNAME(orderDate) As 'DayName'
 FROM products
